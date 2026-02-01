@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2026-01-06",
+        "time": "06:00",
+        "weekday": "Terça",
+        "event": "Rito Coletivo Mensal / Aniversário de ABRALAS"
+    },
+    {
+        "date": "2026-02-04",
+        "time": "21:00",
+        "weekday": "Quarta",
+        "event": "Rito Coletivo Mensal"
+    },
+    {
+        "date": "2026-03-20",
+        "time": "12:00",
+        "weekday": "Sexta",
+        "event": "Rito Coletivo Mensal / Equinócio de Outono"
+    },
+    {
+        "date": "2026-04-01",
+        "time": "21:00",
+        "weekday": "Quarta",
+        "event": "Rito Coletivo Mensal"
+    },
+    {
+        "date": "2026-05-01",
+        "time": "20:00",
+        "weekday": "Segunda",
+        "event": "Rito Coletivo \"Wesak\""
+    },
+    {
+        "date": "2026-06-21",
+        "time": "06:00",
+        "weekday": "Domingo",
+        "event": "Rito Coletivo Mensal / Solstício de Inverno"
+    },
+    {
+        "date": "2026-07-29",
+        "time": "21:00",
+        "weekday": "Quarta",
+        "event": "Rito Coletivo Mensal"
+    },
+    {
+        "date": "2026-08-26",
+        "time": "21:00",
+        "weekday": "Quarta",
+        "event": "Rito Coletivo Mensal"
+    },
+    {
+        "date": "2026-09-22",
+        "time": "21:00",
+        "weekday": "Terça",
+        "event": "Rito Coletivo Mensal / Equinócio de Primavera"
+    },
+    {
+        "date": "2026-10-14",
+        "time": "21:00",
+        "weekday": "Quarta",
+        "event": "Rito Coletivo Mensal"
+    },
+    {
+        "date": "2026-11-12",
+        "time": "21:00",
+        "weekday": "Quinta",
+        "event": "Rito Coletivo Mensal / 40 Dias Coletivos até 21/12!"
+    },
+    {
+        "date": "2026-12-21",
+        "time": "18:00",
+        "weekday": "Segunda",
+        "event": "Rito Coletivo Mensal / Solstício de Verão"
+    }
+]

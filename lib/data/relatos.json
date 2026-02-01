@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Astrid M.",
+    "email": "astrid@example.com",
+    "content": "A vibração do último ritual coletivo foi intensa. Senti uma clareza mental que não tinha há meses.",
+    "date": "2024-05-14T20:00:00Z",
+    "energy": 14
+  },
+  {
+    "id": "2",
+    "name": "Lucas F.",
+    "email": "lucas@example.com",
+    "content": "Consegui finalmente desbloquear aquele projeto estagnado. Agradeço à egrégora pela força.",
+    "date": "2024-05-18T10:30:00Z",
+    "energy": 8
+  },
+  {
+    "id": "3",
+    "name": "Anônimo",
+    "email": "anon@example.com",
+    "content": "Senti uma presença acolhedora. É bom saber que não estamos sós nesta jornada.",
+    "date": "2024-05-20T22:15:00Z",
+    "energy": 23
+  }
+]
